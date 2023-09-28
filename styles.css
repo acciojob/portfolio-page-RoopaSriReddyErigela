@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.head{
+	display:flex;
+	text-align:center;
+	
+}
